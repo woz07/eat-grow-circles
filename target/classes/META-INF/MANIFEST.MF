@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: egc.core.Game
+Class-Path: jaylib-5.0.0-0.jar
+
