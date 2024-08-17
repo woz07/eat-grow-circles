@@ -1,10 +1,17 @@
 # eat-grow-circles
 A simple game about eating smaller circles and avoiding bigger circles all while growing
-> requires java 11
+> Requires java 11
 
-# how to install
+# How to install
+1. Install both **eat-grow-circles.jar** and **jaylib-5.0.0-0.jar** from within [here](/out/artifacts/eat-grow-circles_jar)
+2. Double click on **eat-grow-circles.jar** and it should open up the game
 
-# controls
+# Controls
+## Mouse movement
+To move your player around you must carefuly move your mouse around bigger circles
 
-# libraries used
+## ESC
+To exit the game, only works before you die
+
+# Libraries used
 - https://github.com/electronstudio/jaylib
