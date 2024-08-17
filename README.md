@@ -5,5 +5,5 @@ A simple game about eating smaller circles and avoiding bigger circles all while
 
 # controls
 
-# credits
-[jaylib](https://github.com/electronstudio/jaylib)
+# libraries used
+- https://github.com/electronstudio/jaylib
