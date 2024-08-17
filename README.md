@@ -10,7 +10,7 @@ A simple game about eating smaller circles and avoiding bigger circles all while
 ## Mouse movement
 To move your player around you must carefuly move your mouse around bigger circles
 
-## ESC
+## ESC key
 To exit the game, only works before you die
 
 # Libraries used
